@@ -1,0 +1,6 @@
+AliceCh1.txt
+Frankenstein.txt
+WowCh1.txt
+Metamorphosis.txt
+ernest.txt
+Pride.txt
